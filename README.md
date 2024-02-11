@@ -1,3 +1,3 @@
 # portfolio
 
-<div align="center"><img src="./portfolio.png" /></div>
+<div align="center"><img src="./img/portfolio.png" /></div>
