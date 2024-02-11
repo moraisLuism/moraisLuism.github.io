@@ -1,6 +1,6 @@
 ---
-import { basics, location } from "./cv.json"
-const { name, label, image, location, profiles, phone, email, GitHub, LinkedIn} = basics
+import { basics } from "cv.json"
+const { name, label, image, location, phone, email, GitHub, LinkedIn} = basics
 const { city, region} = location
 ---
 
@@ -33,7 +33,7 @@ const { city, region} = location
               stroke-width="2"
               stroke-linecap="round"
               stroke-linejoin="round"
-              class="icono-correo" // Agrega una clase para el estilo
+              class="icono-correo" 
             >
               <title>Icono de correo</title>
               <rect width="20" height="16" x="2" y="4" rx="2"></rect>
